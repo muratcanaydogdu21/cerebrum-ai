@@ -1,3 +1,2 @@
 # Takım İsmi
-
-## Grup 97
+Grup 97
