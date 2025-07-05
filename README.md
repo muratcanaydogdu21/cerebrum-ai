@@ -12,11 +12,11 @@ Grup 97
 | ![Nazmiye](https://via.placeholder.com/100) | Nazmiye Özuygunlar | Developer | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png"/>](https://www.linkedin.com/in/nazmiyeozuygunlar) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png"/>](https://github.com/nazmiyeozuygunlar) |
 
 
-
-
-
 # Ürün Adı 
 Cerebrum AI
 
 # Ürün Logosu
 ![Image](https://github.com/user-attachments/assets/4c11b9d8-fd90-4571-93d0-b8bac7386760)
+
+# Ürün Açıklaması
+
