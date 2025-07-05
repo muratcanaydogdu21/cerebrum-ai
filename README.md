@@ -19,4 +19,4 @@ Grup 97
 Cerebrum AI
 
 # Ürün Logosu
-![Image](https://github.com/user-attachments/assets/a1250614-6e28-40ba-968a-7f9a8826b68a)
+![Image](https://github.com/user-attachments/assets/4c11b9d8-fd90-4571-93d0-b8bac7386760)
