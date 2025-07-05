@@ -14,4 +14,5 @@ Grup 97
 # Ürün Adı 
 Cerebrum AI
 
-# Ürün Logosu  
+# Ürün Logosu
+![Image](https://github.com/user-attachments/assets/a1250614-6e28-40ba-968a-7f9a8826b68a)
