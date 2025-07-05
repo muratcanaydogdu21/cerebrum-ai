@@ -11,7 +11,7 @@ Grup 97
 | ![Ümit](https://via.placeholder.com/100) | Ümit Özteker | Developer | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" width="20"/>](https://www.linkedin.com/in/%C3%BCmit-%C3%B6zteker/) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="20"/>](https://github.com/UmitOzteker) |
 | ![Nazmiye](https://via.placeholder.com/100) | Nazmiye Özuygunlar | Developer | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" width="20"/>](https://www.linkedin.com/in/nazmiyeozuygunlar) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png" width="20"/>](https://github.com/nazmiyeozuygunlar) |
 
-# Ürün Açıklaması  
+# Ürün Adı 
 Cerebrum AI
 
 # Ürün Logosu  
