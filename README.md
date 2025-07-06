@@ -17,7 +17,7 @@ Grup 97
 Cerebrum AI
 
 # Ürün Logosu
-![Image](https://github.com/user-attachments/assets/4c11b9d8-fd90-4571-93d0-b8bac7386760)
+![Image](https://github.com/user-attachments/assets/bb4d0e5c-832c-436a-a1fc-c36f718dc4bd)
 
 # Ürün Açıklaması
 Cerebrum AI, kullanıcıların beyin tomografisi (BT) görüntülerini web arayüzü üzerinden yükleyerek, bu görüntüler üzerinden yapay zeka destekli hastalık tespiti yapmalarını sağlayan bir analiz platformudur.
