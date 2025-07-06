@@ -1,7 +1,7 @@
 # Takım İsmi  
 Grup 97
 
-## Takım Üyeleri
+# Takım Üyeleri
 
 |  | İsim | Rol | Sosyal Medya |
 |----------|------|-----|--------------|
@@ -22,7 +22,7 @@ Cerebrum AI
 # Ürün Açıklaması
 Cerebrum AI, kullanıcıların beyin tomografisi (BT) görüntülerini web arayüzü üzerinden yükleyerek, bu görüntüler üzerinden yapay zeka destekli hastalık tespiti yapmalarını sağlayan bir analiz platformudur.
 
-## Ürün Özellikleri
+# Ürün Özellikleri
 
 - **Görüntü Yükleme:** Kullanıcı, kendi tomografi dosyasını web arayüzünden yükler.
 
@@ -32,7 +32,7 @@ Cerebrum AI, kullanıcıların beyin tomografisi (BT) görüntülerini web aray�
 
 - **Kullanıcı Dostu Arayüz:** Basit, modern ve medikal veri hassasiyetine uygun tasarım.
 
-## Hedef Kitle
+# Hedef Kitle
 
 - **Nörologlar ve Radyologlar:** Görüntüleri hızlıca ön analiz etmek ve tanıya destek almak isteyen uzmanlar.
 
@@ -42,28 +42,28 @@ Cerebrum AI, kullanıcıların beyin tomografisi (BT) görüntülerini web aray�
 
 - **Yazılım ve Sağlık Teknolojileri Girişimcileri:** Medikal alanda yapay zeka çözümleri geliştirmek isteyen geliştiriciler.
 
-## Backlog URL
+# Backlog URL
 
 Proje backlog’umuzun tamamına aşağıdaki bağlantıdan ulaşabilirsiniz:  
 [📋 Backlog Linki](https://your-backlog-link.com)
 
   
 
-## Sprint 1
+# Sprint 1
 
-### Sprint İçi Puan Değerlendirmesi
+## Sprint İçi Puan Değerlendirmesi
 
 Sprint içi puan değerlendirmesi **100** olarak belirlenmiştir.  
 Her sprint için ortalama bu iş yükü hedeflenmiştir.
 
-### Puan Tamamlama Mantığı
+## Puan Tamamlama Mantığı
 
 Proje boyunca tamamlanması gereken toplam backlog puanı **330**'dur.  
 İlk sprint için bitirilmesi istenilen puan sayısı en az **100** olarak belirlenmiştir.  
 
 Sprint hedefinin büyük kısmına ulaşılmış ve ilerleyen sprintlerde geri kalan işler planlı şekilde tamamlanacaktır.
 
-### Daily Scrum
+## Daily Scrum
 
 Günlük stand-up toplantılarımız **WhatsApp grubu** üzerinden yazılı olarak gerçekleştirilmiştir.  
 Ekip üyeleri proje ilerlemesini ve karşılaştıkları konuları düzenli olarak paylaşmış, işlerin takibi sağlanmıştır.
@@ -71,13 +71,13 @@ Ekip üyeleri proje ilerlemesini ve karşılaştıkları konuları düzenli olar
 Ekran görüntüleri için albüm linki:  
 [📷 Daily Scrum Görüntüleri](https://imgur.com/a/grup-97-daily-scrum-G63vXZn)
 
-### Sprint Board
+## Sprint Board
 
 Sprint Board Ekran Görüntüsü:
 
 ![Sprint Board](https://github.com/user-attachments/assets/e184efb9-cd6e-48da-be41-295643d538f5)
 
-### Ürün Görselleri
+## Ürün Görselleri
 
 Ana Sayfa görselimiz:
 
@@ -85,17 +85,17 @@ Ana Sayfa görselimiz:
 
 ---
 
-#### Karmaşıklık Matrisi
+### Karmaşıklık Matrisi
 
 ![Karmaşıklık Matrisi](https://github.com/user-attachments/assets/ebabfe4c-73cc-4387-8b2d-0cbdd7ea4466)
 
 ---
 
-#### Model Görüntüleri
+### Model Görüntüleri
 
 ![Tespit Analizi](https://github.com/user-attachments/assets/30a92e33-f1fc-4a87-b7cc-5ad5d10a50ec)
 
-### Sprint Review
+## Sprint Review
 
 - Backend dili olarak **FastAPI** belirlenmiştir.  
 - **Doktor Paneli** oluşturulmasına karar verilmiştir.  
@@ -104,7 +104,7 @@ Ana Sayfa görselimiz:
 
 Ekip, sprint hedeflerine uygun ilerleyerek proje temel yapı taşlarını oluşturmuştur.
 
-### Sprint Retrospective
+## Sprint Retrospective
 
 - Görev tahminleri daha gerçekçi yapılacak.  
 - İletişim kanalları daha etkin kullanılacak.  
