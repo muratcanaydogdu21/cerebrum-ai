@@ -45,9 +45,8 @@ Cerebrum AI, kullanıcıların beyin tomografisi (BT) görüntülerini web aray�
 # Backlog URL
 
 Proje backlog’umuzun tamamına aşağıdaki bağlantıdan ulaşabilirsiniz:  
-[📋 Backlog Linki](https://your-backlog-link.com)
-
-  
+[Backlog Linki](https://trello.com/b/E7RErUz3/genai)
+ 
 
 # Sprint 1
 
@@ -75,7 +74,7 @@ Ekran görüntüleri için albüm linki:
 
 Sprint Board Ekran Görüntüsü:
 
-![Sprint Board](https://github.com/user-attachments/assets/e184efb9-cd6e-48da-be41-295643d538f5)
+<img width="805" height="758" alt="Image" src="https://github.com/user-attachments/assets/41c3407d-3481-4675-a86f-ad63f84c9d80" />
 
 ## Ürün Görselleri
 
