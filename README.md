@@ -53,7 +53,7 @@ Proje backlog’umuzun tamamına aşağıdaki bağlantıdan ulaşabilirsiniz:
 
 ### Sprint İçi Puan Değerlendirmesi
 
-Sprint içi puan değerlendirmesi **110** olarak belirlenmiştir.  
+Sprint içi puan değerlendirmesi **100** olarak belirlenmiştir.  
 Her sprint için ortalama bu iş yükü hedeflenmiştir.
 
 ### Puan Tamamlama Mantığı
