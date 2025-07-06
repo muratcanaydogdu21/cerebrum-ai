@@ -41,6 +41,12 @@ Cerebrum AI, kullanıcıların beyin tomografisi (BT) görüntülerini web aray�
 - **Tıp Öğrencileri ve Araştırmacılar:** Yapay zeka destekli görüntü analizi üzerine çalışmak isteyen akademik gruplar.
 
 - **Yazılım ve Sağlık Teknolojileri Girişimcileri:** Medikal alanda yapay zeka çözümleri geliştirmek isteyen geliştiriciler.
+
+## Backlog URL
+
+Proje backlog’umuzun tamamına aşağıdaki bağlantıdan ulaşabilirsiniz:  
+[📋 Backlog Linki](https://your-backlog-link.com)
+
   
 
 ## Sprint 1
