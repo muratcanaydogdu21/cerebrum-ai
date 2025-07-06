@@ -6,10 +6,11 @@ Grup 97
 | Fotoğraf | İsim | Rol | Sosyal Medya |
 |----------|------|-----|--------------|
 | ![Alperen](https://github.com/user-attachments/assets/9a1ec457-38fd-4a3e-97cf-aeefb929cfa8) | Alperen Güner | Scrum Master | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png"/>](https://linkedin.com/in/alperen-guner35) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png"/>](https://github.com/SAPHRTR) |
-| ![Nisa](https://via.placeholder.com/100) | Nisa Vapurlu | Product Owner | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png"/>](https://www.linkedin.com/in/nisa-vapurlu-61a868223/) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png"/>](https://github.com/NisaVapurlu) |
+| ![Nisa](https://github.com/user-attachments/assets/249b4dcd-0f88-4cea-a1aa-47e88d17fe45) | Nisa Vapurlu | Product Owner | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png"/>](https://www.linkedin.com/in/nisa-vapurlu-61a868223/) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png"/>](https://github.com/NisaVapurlu) |
 | ![Muratcan](https://github.com/user-attachments/assets/d0791984-6edb-4936-95f7-b608c37762cd) | Muratcan Aydoğdu | Developer | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png"/>](https://linkedin.com/in/muratcan-aydoğdu) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png"/>](https://github.com/muratcanaydogdu21) |
-| ![Ümit](https://via.placeholder.com/100) | Ümit Özteker | Developer | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png"/>](https://www.linkedin.com/in/%C3%BCmit-%C3%B6zteker/) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png"/>](https://github.com/UmitOzteker) |
-| ![Nazmiye](https://via.placeholder.com/100) | Nazmiye Özuygunlar | Developer | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png"/>](https://www.linkedin.com/in/nazmiyeozuygunlar) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png"/>](https://github.com/nazmiyeozuygunlar) |
+| ![Ümit](https://github.com/user-attachments/assets/ac918c03-f08d-4eb5-9430-10f182221c7c) | Ümit Özteker | Developer | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png"/>](https://www.linkedin.com/in/%C3%BCmit-%C3%B6zteker/) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png"/>](https://github.com/UmitOzteker) |
+| ![Nazmiye](https://github.com/user-attachments/assets/e89599c3-4085-4208-b2bf-9ddf061dc4d1) | Nazmiye Özuygunlar | Developer | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png"/>](https://www.linkedin.com/in/nazmiyeozuygunlar) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png"/>](https://github.com/nazmiyeozuygunlar) |
+
 
 
 # Ürün Adı 
