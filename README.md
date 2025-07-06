@@ -24,11 +24,11 @@ Cerebrum AI, kullanıcıların beyin tomografisi (BT) görüntülerini web aray�
 
 ## Ürün Özellikleri
 
-- **Görüntü Yükleme:** Kullanıcı, kendi tomografi dosyasını (örneğin `.jpg`, `.png`, `.dcm`) web arayüzünden yükler.
+- **Görüntü Yükleme:** Kullanıcı, kendi tomografi dosyasını web arayüzünden yükler.
 
 - **AI ile Analiz:** Derin öğrenme tabanlı modelimiz görüntüyü işler ve anomali tespiti yapar.
 
-- **Anlık Geri Bildirim:** Tahmin sonucu (örneğin: “Anormal kitle tespit edildi”) anında kullanıcıya sunulur.
+- **Anlık Geri Bildirim:** Tahmin sonucu anında kullanıcıya sunulur.
 
 - **Kullanıcı Dostu Arayüz:** Basit, modern ve medikal veri hassasiyetine uygun tasarım.
 
