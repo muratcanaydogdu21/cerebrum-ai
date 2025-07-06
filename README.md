@@ -3,7 +3,7 @@ Grup 97
 
 ## Takım Üyeleri
 
-| Fotoğraf | İsim | Rol | Sosyal Medya |
+|  | İsim | Rol | Sosyal Medya |
 |----------|------|-----|--------------|
 | ![Alperen](https://github.com/user-attachments/assets/9a1ec457-38fd-4a3e-97cf-aeefb929cfa8) | Alperen Güner | Scrum Master | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png"/>](https://linkedin.com/in/alperen-guner35) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png"/>](https://github.com/SAPHRTR) |
 | ![Nisa](https://github.com/user-attachments/assets/249b4dcd-0f88-4cea-a1aa-47e88d17fe45) | Nisa Vapurlu | Product Owner | [<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png"/>](https://www.linkedin.com/in/nisa-vapurlu-61a868223/) [<img src="https://cdn-icons-png.flaticon.com/24/25/25231.png"/>](https://github.com/NisaVapurlu) |
