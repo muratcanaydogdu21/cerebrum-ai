@@ -69,7 +69,7 @@ Günlük stand-up toplantılarımız **WhatsApp grubu** üzerinden yazılı olar
 Ekip üyeleri proje ilerlemesini ve karşılaştıkları konuları düzenli olarak paylaşmış, işlerin takibi sağlanmıştır.
 
 Ekran görüntüleri için albüm linki:  
-[📷 Daily Scrum Görüntüleri](https://imgur.com/a/your-album-link)
+[📷 Daily Scrum Görüntüleri](https://imgur.com/a/grup-97-daily-scrum-G63vXZn)
 
 ### Sprint Board
 
