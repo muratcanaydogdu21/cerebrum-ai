@@ -19,4 +19,29 @@ Cerebrum AI
 ![Image](https://github.com/user-attachments/assets/4c11b9d8-fd90-4571-93d0-b8bac7386760)
 
 # Ürün Açıklaması
+Cerebrum AI, kullanıcıların beyin tomografisi (BT) görüntülerini web arayüzü üzerinden yükleyerek, bu görüntüler üzerinden yapay zeka destekli hastalık tespiti yapmalarını sağlayan bir analiz platformudur.
+
+## Ürün Özellikleri
+
+- **Görüntü Yükleme:** Kullanıcı, kendi tomografi dosyasını (örneğin `.jpg`, `.png`, `.dcm`) web arayüzünden yükler.
+
+- **AI ile Analiz:** Derin öğrenme tabanlı modelimiz görüntüyü işler ve anomali tespiti yapar.
+
+- **Anlık Geri Bildirim:** Tahmin sonucu (örneğin: “Anormal kitle tespit edildi”) anında kullanıcıya sunulur.
+
+- **Kullanıcı Dostu Arayüz:** Basit, modern ve medikal veri hassasiyetine uygun tasarım.
+
+## Hedef Kitle
+
+- **Nörologlar ve Radyologlar:** Görüntüleri hızlıca ön analiz etmek ve tanıya destek almak isteyen uzmanlar.
+
+- **Sağlık Kurumları ve Hastaneler:** Tanı sürecini hızlandırmak ve hasta yoğunluğunu yönetmek isteyen kurumlar.
+
+- **Tıp Öğrencileri ve Araştırmacılar:** Yapay zeka destekli görüntü analizi üzerine çalışmak isteyen akademik gruplar.
+
+- **Yazılım ve Sağlık Teknolojileri Girişimcileri:** Medikal alanda yapay zeka çözümleri geliştirmek isteyen geliştiriciler.
+
+
+
+
 
