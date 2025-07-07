@@ -110,6 +110,8 @@ Ekip, sprint hedeflerine uygun ilerleyerek proje temel yapı taşlarını oluşt
 - Test süreçleri sprint planına dahil edilecek.
 - Haftalık en az iki toplantı yapılacak.
 
+## Sprint Notes
+İlk Sprint boyunca eüzerine en fazla tartıştığımız konu proje konumuz oldu. İlk toplantıdan sonra yaklaşık 3 günlük bir süre verdik .Bu süre zarfında grubun her bir üyesi yapılacak konuyu seçmek için internetten çeşitli verisetlerini inceledi,blog yazılarını okudu,literatür taraması yaptı ve çeşitli yapay zekalardan bilgiler topladı ve tüm bunlar whatsapp grubunda paylaşıldı . Sonraki toplantıda ise bu verisetleri ve fikirler gözden geçirilerek bugunkü proje fikrimize ulaştık. Ardından bu projeyi nasıl ve neşekilde hayata geçireceğimize dair plan yaptık.Bizi bu süreçte en çok zorlayan konuyu bulmak ve görevleri dağıtmak oldu.Herkesin bilgi ,kabiliyet ve heveslerine göre bir dağıtım yapmamız gerekti.
 
 
 
